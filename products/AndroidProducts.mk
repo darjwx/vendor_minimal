@@ -8,6 +8,7 @@ PRODUCT_MAKEFILES := \
 	$(LOCAL_DIR)/minimal_flo.mk \
 	$(LOCAL_DIR)/minimal_grouper.mk \
 	$(LOCAL_DIR)/minimal_hammerhead.mk \
+        $(LOCAL_DIR)/minimal_huashan.mk \
 	$(LOCAL_DIR)/minimal_mako.mk \
 	$(LOCAL_DIR)/minimal_osprey.mk \
 	$(LOCAL_DIR)/minimal_pepper.mk \
